@@ -1,6 +1,6 @@
 # Longest Living Pixels of r/place
 
-## Complitation and running
+## Compliation and running
 
 This C++17 program uses the sorted pixel history to output the longest living
 pixels.
